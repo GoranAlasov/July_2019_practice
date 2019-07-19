@@ -1,2 +1,6 @@
 Svetlana Raznjatovic, srpska majka.
+<<<<<<< HEAD
 neka druga izmena
+=======
+neki datum rodjenja
+>>>>>>> new_branch
